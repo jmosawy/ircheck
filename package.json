@@ -1,0 +1,31 @@
+{
+  "name": "ircheck",
+  "version": "0.1.0",
+  "description": "Node.js validation library for Iranian developers",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha ./test/**/*-test.js",
+    "lint": "eslint ."
+  },
+  "keywords": [
+    "validation",
+    "normalizer",
+    "Iran"
+  ],
+  "author": "Jeff Mosawy <jmosawy@gmail.com> (http://jmosawy.com)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevRoomOrg/ircheck.git"
+  },
+  "bugs": {
+    "url": "https://github.com/DevRoomOrg/ircheck/issues"
+  },
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "eslint": "^4.6.1",
+    "eslint-config-airbnb-base": "^12.0.0",
+    "eslint-plugin-import": "^2.7.0",
+    "mocha": "^3.5.0"
+  }
+}

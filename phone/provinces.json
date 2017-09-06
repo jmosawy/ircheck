@@ -1,0 +1,188 @@
+[
+  {
+    "name": "Alborz",
+    "code": "AL",
+    "areaCode": 26,
+    "faName": "البرز"
+  },
+  {
+    "name": "Ardebil",
+    "code": "AR",
+    "areaCode": 45,
+    "faName": "اردبیل"
+  },
+  {
+    "name": "Bushehr",
+    "code": "BS",
+    "areaCode": 77,
+    "faName": "بوشهر"
+  },
+  {
+    "name": "Chahar Mahall and Bakhtiari",
+    "code": "CM",
+    "areaCode": 38,
+    "faName": "چهارمحال و بختیاری"
+  },
+  {
+    "name": "East Azarbaijan",
+    "code": "EA",
+    "areaCode": 41,
+    "faName": "آذربایحان شرقی"
+  },
+  {
+    "name": "Esfahan",
+    "code": "ES",
+    "areaCode": 31,
+    "faName": "اصفهان"
+  },
+  {
+    "name": "Fars",
+    "code": "FA",
+    "areaCode": 71,
+    "faName": "فارس"
+  },
+  {
+    "name": "Gilan",
+    "code": "GI",
+    "areaCode": 13,
+    "faName": "گیلان"
+  },
+  {
+    "name": "Golestan",
+    "code": "GO",
+    "areaCode": 17,
+    "faName": "گلستان"
+  },
+  {
+    "name": "Hamadan",
+    "code": "HD",
+    "areaCode": 81,
+    "faName": "همدان"
+  },
+  {
+    "name": "Hormozgan",
+    "code": "HG",
+    "areaCode": 76,
+    "faName": "هرمزگان"
+  },
+  {
+    "name": "Ilam",
+    "code": "IL",
+    "areaCode": 84,
+    "faName": "ایلام"
+  },
+  {
+    "name": "Kerman",
+    "code": "KE",
+    "areaCode": 34,
+    "faName": "کرمان"
+  },
+  {
+    "name": "Kermanshah",
+    "code": "BK",
+    "areaCode": 83,
+    "faName": "کرمانشاه"
+  },
+  {
+    "name": "Khuzestan",
+    "code": "KZ",
+    "areaCode": 61,
+    "faName": "خوزستان"
+  },
+  {
+    "name": "Kohgiluyeh and Buyer Ahmad",
+    "code": "KB",
+    "areaCode": 74,
+    "faName": "کهگیلویه و بویراحمد"
+  },
+  {
+    "name": "Kordestan",
+    "code": "KD",
+    "areaCode": 87,
+    "faName": "کردستان"
+  },
+  {
+    "name": "Lorestan",
+    "code": "LO",
+    "areaCode": 66,
+    "faName": "لرستان"
+  },
+  {
+    "name": "Markazi",
+    "code": "MK",
+    "areaCode": 86,
+    "faName": "مرکزی"
+  },
+  {
+    "name": "Mazandaran",
+    "code": "MN",
+    "areaCode": 11,
+    "faName": "مازندران"
+  },
+  {
+    "name": "North Khorasan",
+    "code": "KS",
+    "areaCode": 58,
+    "faName": "خراسان شمالی"
+  },
+  {
+    "name": "Qazvin",
+    "code": "QZ",
+    "areaCode": 28,
+    "faName": "قزوین"
+  },
+  {
+    "name": "Qom",
+    "code": "QM",
+    "areaCode": 25,
+    "faName": "قم"
+  },
+  {
+    "name": "Razavi Khorasan",
+    "code": "KV",
+    "areaCode": 51,
+    "faName": "خراسان رضوی"
+  },
+  {
+    "name": "Semnan",
+    "code": "SM",
+    "areaCode": 23,
+    "faName": "سمنان"
+  },
+  {
+    "name": "Sistan and Baluchestan",
+    "code": "SB",
+    "areaCode": 54,
+    "faName": "سیستان و بلوچستان"
+  },
+  {
+    "name": "South Khorasan",
+    "code": "KJ",
+    "areaCode": 56,
+    "faName": "خراسان جنوبی"
+  },
+  {
+    "name": "Tehran",
+    "code": "TE",
+    "areaCode": 21,
+    "faName": "تهران"
+  },
+  {
+    "name": "West Azarbaijan",
+    "code": "WA",
+    "areaCode": 44,
+    "faName": "آذربایجان غربی"
+  },
+  {
+    "name": "Yazd",
+    "code": "YA",
+    "areaCode": 35,
+    "faName": "یزد"
+  },
+  {
+    "name": "Zanjan",
+    "code": "ZA",
+    "areaCode": 24,
+    "faName": "زنجان"
+  }
+]
