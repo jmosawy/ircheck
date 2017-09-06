@@ -1,8 +1,9 @@
-# IRCHECK
-IRCHECK is a Node.js validation library developed for Iranian developers in order to help them to do some validations on their specific national data.
+# IRCheck
+IRCheck is a Node.js validation library developed for Iranian developers in order to help them to do some validations on their specific national data.
 
 ## Install & Usage
 You can install the package via the following command:
+
 `npm install ircheck`
 
 ### Usage
@@ -14,12 +15,12 @@ const IRCheck = require('ircheck');
 Then you can use the available methods for different available validators:
 ```javascript
 IRCheck.Phone.checkType('02191001848'); //returns 'LANDLINE'
-IRCheck.Phone.normalizeMobile('+989121234567'); // returns '91234567'
+IRCheck.Phone.normalizeMobile('+989121234567'); // returns '9121234567'
 ```
 
 ## Validators Availability
 Currently, the following validators are available:
-* [Iranian Phone Numbers](#phone)
+* [Iran Phone Numbers](#phone)
 
 ### Phone
 Here’s a list of available methods:
@@ -32,6 +33,9 @@ Here’s a list of available methods:
 * `getProvincesFromLandline(number)` Extract province data from a landline numbers
 
 ## History
+### 0.1.1
+* Fixing typo errors in README.md file.
+
 ### 0.1.0
 * Initial release
 
