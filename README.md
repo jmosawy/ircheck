@@ -16,11 +16,15 @@ Then you can use the available methods for different available validators:
 ```javascript
 IRCheck.Phone.checkType('02191001848'); //returns 'LANDLINE'
 IRCheck.Phone.normalizeMobile('+989121234567'); // returns '9121234567'
+IRCheck.Postal.isPostalCodeValid('7634598734'); // returns 'TRUE'
+IRCheck.National.isNationalCodeValid('4721016352'); // returns 'TRUE'
 ```
 
 ## Validators Availability
 Currently, the following validators are available:
 * [Iran Phone Numbers](#phone)
+* [Iran Postal](#postal)
+* [Iran National Codes](#national)
 
 ### Phone
 Here’s a list of available methods:
@@ -29,10 +33,25 @@ Here’s a list of available methods:
 * `isLandline(number)` Verify the input number is a type of landline
 * `normalizeMobile(number)`  Normalize a mobile number as 9121234567
 * `normalizeLandline(number)` Normalize a landline number as 2191001848
-* `getProvinceData(number)` Get province info from its area code or code name
+* `getProvinceData(province {String|Number})` Get province info from its area code or code name
 * `getProvincesFromLandline(number)` Extract province data from a landline numbers
 
+### Postal
+Here’s a list of available methods:
+* `isPostalCodeValid(postalCode {String})` Check if the entered postal code is valid
+
+### National
+Here’s a list of available methods:
+* `isNationalCodeValid(nationalCode {String})` Check if the entered Iranian national code is valid
+
+
 ## History
+### 0.3.0
+* Postal code validation has been added into the library.
+* National code validation has been added into the library.
+* Updating README.md file.
+* A few changes in the main file.
+
 ### 0.1.1
 * Fixing typo errors in README.md file.
 
