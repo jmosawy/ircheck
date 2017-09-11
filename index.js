@@ -1,9 +1,9 @@
 const Phone = require('./phone');
 const Postal = require('./postal');
 
-const Verifier = function () {};
+const IRCheck = function () {};
 
 Verifier.prototype.Phone = Phone;
 Verifier.prototype.Postal = Postal;
 
-module.exports = new Verifier();
+module.exports = new IRCheck();
