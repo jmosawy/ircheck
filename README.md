@@ -46,6 +46,9 @@ Here’s a list of available methods:
 
 
 ## History
+### 0.3.6
+* Company national code validation has been added.
+
 ### 0.3.0
 * Postal code validation has been added into the library.
 * National code validation has been added into the library.
