@@ -1,6 +1,6 @@
 {
   "name": "ircheck",
-  "version": "0.3.0",
+  "version": "0.3.5",
   "description": "Node.js validation library for Iranian developers",
   "main": "index.js",
   "scripts": {
